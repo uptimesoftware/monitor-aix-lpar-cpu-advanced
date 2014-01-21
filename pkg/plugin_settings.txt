@@ -1,0 +1,8 @@
+name=AIX LPAR CPU Advanced
+version=1.0
+platforms=linux windows
+description=Monitor the processors used and the entitled capacity used on the AIX LPARs
+restartCore=false
+requiresAgentScript=true
+onUpgradeRemoveFiles=true
+onUpgradeRemoveMonitors=false
